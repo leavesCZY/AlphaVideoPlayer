@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- OpenGL ES 2.0; required=false so Play filtering does not exclude non-GLES devices. -->
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="false" />
+
+</manifest>

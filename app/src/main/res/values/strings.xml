@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlphaVideoPlayer</string>
+    <string name="demo_exo_player">Media3 ExoPlayer</string>
+    <string name="demo_system_player">System MediaPlayer</string>
+    <string name="demo_title_exo">ExoPlayer</string>
+    <string name="demo_title_system">MediaPlayer</string>
+    <string name="action_play_video">Play %1$s</string>
+    <string name="action_back">Back</string>
+    <string name="label_scale_type">ScaleType</string>
+</resources>

@@ -1,0 +1,5 @@
+-repackageclasses
+-allowaccessmodification
+-dontusemixedcaseclassnames
+-keepattributes SourceFile,LineNumberTable
+-renamesourcefileattribute SourceFile
